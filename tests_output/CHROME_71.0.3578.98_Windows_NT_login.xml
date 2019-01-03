@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="login"
+    errors="0" failures="1" hostname="" id="" package="login" skipped="0"
+    tests="2" time="12.35" timestamp="">
+  
+    <testcase name="Logging in 1" classname="login" time="4.521" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Logging in 2" classname="login" time="7.831" assertions="2">
+
+      <failure message="Expected element &lt;input[name=&#34;firstName&#34;]&gt; to have value contain: &#34;JARED&#34; - expected [0;32m&#34;contain &#39;JARED&#39;&#34;[0m but got: [0;31m&#34;Jared&#34;[0m">    at Object.Logging in 2 (C:\Users\motox\OneDrive\Desktop\DevMtn\QA\RMATVMC\RMATV Tests\tests\login.js:21:24)
+    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:189:7)</failure>
+
+    <failure message="    at Object.Logging in 2 (C:\Users\motox\OneDrive\Desktop\DevMtn\QA\RMATVMC\RMATV Tests\tests\login.js:21:24)">    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:189:7)</failure>
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
