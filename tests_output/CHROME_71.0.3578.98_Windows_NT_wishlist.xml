@@ -5,9 +5,9 @@
 
   <testsuite name="wishlist"
     errors="0" failures="0" hostname="" id="" package="wishlist" skipped="0"
-    tests="1" time="9.693" timestamp="">
+    tests="1" time="14.02" timestamp="">
   
-    <testcase name="Add Item to Wish List" classname="wishlist" time="9.693" assertions="9">
+    <testcase name="Add Item to Wish List" classname="wishlist" time="14.02" assertions="9">
 
     
 

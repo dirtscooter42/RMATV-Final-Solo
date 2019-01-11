@@ -5,30 +5,30 @@
 
   <testsuite name="socialMedia"
     errors="0" failures="0" hostname="" id="" package="socialMedia" skipped="0"
-    tests="4" time="42.47" timestamp="">
+    tests="4" time="52.59" timestamp="">
   
-    <testcase name="Link to Facebook" classname="socialMedia" time="13.22" assertions="2">
+    <testcase name="Link to Facebook" classname="socialMedia" time="18.50" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Link to Instagram" classname="socialMedia" time="8.293" assertions="2">
+    <testcase name="Link to Instagram" classname="socialMedia" time="12.47" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Link to Twitter" classname="socialMedia" time="9.155" assertions="2">
+    <testcase name="Link to Twitter" classname="socialMedia" time="10.31" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Link to Youtube" classname="socialMedia" time="11.81" assertions="2">
+    <testcase name="Link to Youtube" classname="socialMedia" time="11.30" assertions="2">
 
     
 
