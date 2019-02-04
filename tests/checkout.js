@@ -15,8 +15,9 @@ module.exports = {
         .click('img[title="Tusk Curved LED Light Bar"]')
         .waitForElementPresent('input[alt="Add To Cart"]', 5000)
         .click('input[alt="Add To Cart"]')
-        .waitForElementPresent('span[class="icn-cart"]', 5000)
-        .click('a[href="../../../Cart"]')
+        .pause(300)
+        .waitForElementPresent('a[href="../Cart"]', 5000)
+        .click('a[href="../Cart"]')
     },
 
     'Add Item to Wish List' : browser => {

@@ -5,9 +5,9 @@
 
   <testsuite name="checkout"
     errors="0" failures="0" hostname="" id="" package="checkout" skipped="0"
-    tests="6" time="51.47" timestamp="">
+    tests="6" time="52.30" timestamp="">
   
-    <testcase name="Add item to Cart" classname="checkout" time="7.300" assertions="5">
+    <testcase name="Add item to Cart" classname="checkout" time="9.990" assertions="5">
 
     
 
@@ -20,7 +20,7 @@
     
     </testcase>
   
-    <testcase name="Add Item to Wish List" classname="checkout" time="7.986" assertions="9">
+    <testcase name="Add Item to Wish List" classname="checkout" time="9.975" assertions="9">
 
     
 
@@ -41,28 +41,28 @@
     
     </testcase>
   
-    <testcase name="Link to Facebook" classname="checkout" time="7.826" assertions="2">
+    <testcase name="Link to Facebook" classname="checkout" time="6.177" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Link to Instagram" classname="checkout" time="8.347" assertions="2">
+    <testcase name="Link to Instagram" classname="checkout" time="7.886" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Link to Twitter" classname="checkout" time="7.321" assertions="2">
+    <testcase name="Link to Twitter" classname="checkout" time="7.480" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Link to Youtube" classname="checkout" time="12.69" assertions="2">
+    <testcase name="Link to Youtube" classname="checkout" time="10.80" assertions="2">
 
     
 
